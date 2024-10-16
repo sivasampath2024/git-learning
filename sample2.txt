@@ -1,1 +1,1 @@
-Rename sample.txt to sample2.txt
+Renamed sample.txt to sample2.txt
